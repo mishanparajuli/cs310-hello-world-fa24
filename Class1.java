@@ -17,5 +17,9 @@ public class Class1 {
         // v3.0
         System.out.println("This is a hotfix");
     }
+
+    private void f4() {
+        // v4.0
+    }
     
 }
