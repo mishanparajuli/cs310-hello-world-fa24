@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Mishan Parajuli
  */
 
 public class Class2 {
